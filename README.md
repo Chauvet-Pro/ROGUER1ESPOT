@@ -2,9 +2,12 @@
 
 ## Software Versions
 
+[V1.241206 - Rogue R1E Spot](https://github.com/Chauvet-Pro/ROGUER1ESPOT/blob/45404c731e793bd6abe198f87829151d740b49a0/Firmware/V1.241206.zip)
+- No new features or performance enhancements were added. This update is for internal use only
+
 [V1.240123 - Rogue R1E Spot](https://github.com/Chauvet-Pro/ROGUER1ESPOT/tree/2eaba71e704f41b5d11a4970dcb6499291d60ac9/Firmware)
 - Added stop to gobo rotating channel
-
+  
 &nbsp;
 
 ## USB Software Update Instructions
